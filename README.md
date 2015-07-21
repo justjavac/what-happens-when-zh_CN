@@ -1,4 +1,4 @@
-# 当...时发生了什么
+# 当XXX时，到底发生了什么...
 
 
 - [当你开启电脑时，它发生了什么](http://www.linuxsir.org/bbs/thread205849.html)
