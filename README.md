@@ -22,3 +22,5 @@
 - [C# 参数传递时到底发生了什么（ref）](http://www.cnblogs.com/luyingxue/archive/2011/11/13/2247056.html)
 
 - [当 i=i++ 时，究竟发生了什么](http://www.tuicool.com/articles/URzeIb)
+
+- [当执行kill -9 PID时系统发生了什么](http://lifeofzjs.com/blog/2015/03/22/what-happens-when-you-kill-a-process/)
