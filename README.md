@@ -7,7 +7,7 @@
 
 - [当你访问淘宝的时候，发生了什么](http://www.xyduan.net/what-happened-when-you-visit-taobao/)
 
-- [for 循环中到底发生了什么—— Python 提高班](http://www.shellsec.com/tech/57648.html)
+- [for 循环中到底发生了什么—— Python 提高班](http://segmentfault.com/a/1190000000493276)
 
 - [linux 终端下敲 Ctrl+C 时，到底发生了什么](http://blog.csdn.net/chenyu105/article/details/7738388)
 
