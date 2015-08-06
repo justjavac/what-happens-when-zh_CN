@@ -1,7 +1,7 @@
 # 当XXX时，到底发生了什么...
 
 
-- [当你开启电脑时，它发生了什么](http://www.linuxsir.org/bbs/thread205849.html)
+- [当你开启电脑时，它发生了什么](http://sobaigu.com/?p=543)
 
 - [当你输入一个网址的时候，实际会发生什么](http://www.cnblogs.com/wenanry/archive/2010/02/25/1673368.html)
 
